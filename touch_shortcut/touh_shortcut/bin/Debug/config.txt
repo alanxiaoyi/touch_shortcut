@@ -1,0 +1,15 @@
+    
+%This file is for you to add your own shortcut. Don't leave
+%white space in the name. Use formal name of the virtual key
+%from Input Simulator Library on the right hand.
+
+
+%Name			Formal Name
+     
+Copy			 CONTROL+VK_C
+Paste			 CONTROL+VK_V
+Backspace		 BACK
+Force_Quit		 MENU+F4
+Task_Manager     CONTROL+SHIFT+ESCAPE
+Win			LWIN
+Prev			CONTROL+VK_Z

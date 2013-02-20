@@ -1,0 +1,4 @@
+It is a software shortcut keyboard for win8 touch screen device.
+I initially write it for my new Surface pro. I will attach a little vedio for demo.
+
+I use Input Simulator library. Note that it only support software simulation, not a device driver.                                                                                                                                                                                                                                                                                                                                      

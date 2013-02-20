@@ -1,0 +1,42 @@
+E:\SkyDrive\Dropbox\visual studio 2012\Projects\gaming_soft_keyboard\gaming_soft_keyboard\bin\Debug\gaming_soft_keyboard.exe.config
+E:\SkyDrive\Dropbox\visual studio 2012\Projects\gaming_soft_keyboard\gaming_soft_keyboard\bin\Debug\gaming_soft_keyboard.exe
+E:\SkyDrive\Dropbox\visual studio 2012\Projects\gaming_soft_keyboard\gaming_soft_keyboard\bin\Debug\gaming_soft_keyboard.pdb
+E:\SkyDrive\Dropbox\visual studio 2012\Projects\gaming_soft_keyboard\gaming_soft_keyboard\obj\Debug\gaming_soft_keyboard.csprojResolveAssemblyReference.cache
+E:\SkyDrive\Dropbox\visual studio 2012\Projects\gaming_soft_keyboard\gaming_soft_keyboard\obj\Debug\gaming_soft_keyboard.Properties.Resources.resources
+E:\SkyDrive\Dropbox\visual studio 2012\Projects\gaming_soft_keyboard\gaming_soft_keyboard\obj\Debug\gaming_soft_keyboard.csproj.GenerateResource.Cache
+E:\SkyDrive\Dropbox\visual studio 2012\Projects\gaming_soft_keyboard\gaming_soft_keyboard\obj\Debug\gaming_soft_keyboard.exe
+E:\SkyDrive\Dropbox\visual studio 2012\Projects\gaming_soft_keyboard\gaming_soft_keyboard\obj\Debug\gaming_soft_keyboard.pdb
+E:\SkyDrive\Dropbox\visual studio 2012\Projects\gaming_soft_keyboard\gaming_soft_keyboard\bin\Debug\InputSimulator.dll
+E:\SkyDrive\Dropbox\visual studio 2012\Projects\gaming_soft_keyboard\gaming_soft_keyboard\bin\Debug\InputSimulator.pdb
+E:\SkyDrive\Dropbox\visual studio 2012\Projects\gaming_soft_keyboard\gaming_soft_keyboard\bin\Debug\InputSimulator.xml
+E:\SkyDrive\Dropbox\visual studio 2012\Projects\gaming_soft_keyboard\gaming_soft_keyboard\obj\Debug\gaming_soft_keyboard.configform.resources
+E:\SkyDrive\Dropbox\visual studio 2012\Projects\gaming_soft_keyboard\gaming_soft_keyboard\obj\Debug\gaming_soft_keyboard.keyform.resources
+E:\SkyDrive\Dropbox\visual studio 2012\Projects\gaming_soft_keyboard\gaming_soft_keyboard\obj\Debug\gaming_soft_keyboard.circleform.resources
+E:\gaming_soft_keyboard\gaming_soft_keyboard\bin\Debug\gaming_soft_keyboard.exe.config
+E:\gaming_soft_keyboard\gaming_soft_keyboard\obj\Debug\gaming_soft_keyboard.exe
+E:\gaming_soft_keyboard\gaming_soft_keyboard\obj\Debug\gaming_soft_keyboard.pdb
+E:\gaming_soft_keyboard\gaming_soft_keyboard\obj\Debug\gaming_soft_keyboard.csprojResolveAssemblyReference.cache
+E:\gaming_soft_keyboard\gaming_soft_keyboard\obj\Debug\gaming_soft_keyboard.circleform.resources
+E:\gaming_soft_keyboard\gaming_soft_keyboard\obj\Debug\gaming_soft_keyboard.configform.resources
+E:\gaming_soft_keyboard\gaming_soft_keyboard\obj\Debug\gaming_soft_keyboard.keyform.resources
+E:\gaming_soft_keyboard\gaming_soft_keyboard\obj\Debug\gaming_soft_keyboard.Properties.Resources.resources
+E:\gaming_soft_keyboard\gaming_soft_keyboard\obj\Debug\gaming_soft_keyboard.csproj.GenerateResource.Cache
+E:\gaming_soft_keyboard\gaming_soft_keyboard\bin\Debug\gaming_soft_keyboard.exe
+E:\gaming_soft_keyboard\gaming_soft_keyboard\bin\Debug\gaming_soft_keyboard.pdb
+E:\gaming_soft_keyboard\gaming_soft_keyboard\bin\Debug\InputSimulator.dll
+E:\gaming_soft_keyboard\gaming_soft_keyboard\bin\Debug\InputSimulator.pdb
+E:\gaming_soft_keyboard\gaming_soft_keyboard\bin\Debug\InputSimulator.xml
+C:\Users\alan\Documents\Visual Studio 2012\Projects\gaming_soft_keyboard\gaming_soft_keyboard\bin\Debug\gaming_soft_keyboard.exe.config
+C:\Users\alan\Documents\Visual Studio 2012\Projects\gaming_soft_keyboard\gaming_soft_keyboard\obj\Debug\gaming_soft_keyboard.exe
+C:\Users\alan\Documents\Visual Studio 2012\Projects\gaming_soft_keyboard\gaming_soft_keyboard\obj\Debug\gaming_soft_keyboard.pdb
+C:\Users\alan\Documents\Visual Studio 2012\Projects\gaming_soft_keyboard\gaming_soft_keyboard\bin\Debug\gaming_soft_keyboard.exe
+C:\Users\alan\Documents\Visual Studio 2012\Projects\gaming_soft_keyboard\gaming_soft_keyboard\bin\Debug\gaming_soft_keyboard.pdb
+C:\Users\alan\Documents\Visual Studio 2012\Projects\gaming_soft_keyboard\gaming_soft_keyboard\bin\Debug\InputSimulator.dll
+C:\Users\alan\Documents\Visual Studio 2012\Projects\gaming_soft_keyboard\gaming_soft_keyboard\bin\Debug\InputSimulator.pdb
+C:\Users\alan\Documents\Visual Studio 2012\Projects\gaming_soft_keyboard\gaming_soft_keyboard\bin\Debug\InputSimulator.xml
+C:\Users\alan\Documents\Visual Studio 2012\Projects\gaming_soft_keyboard\gaming_soft_keyboard\obj\Debug\gaming_soft_keyboard.csprojResolveAssemblyReference.cache
+C:\Users\alan\Documents\Visual Studio 2012\Projects\gaming_soft_keyboard\gaming_soft_keyboard\obj\Debug\gaming_soft_keyboard.circleform.resources
+C:\Users\alan\Documents\Visual Studio 2012\Projects\gaming_soft_keyboard\gaming_soft_keyboard\obj\Debug\gaming_soft_keyboard.configform.resources
+C:\Users\alan\Documents\Visual Studio 2012\Projects\gaming_soft_keyboard\gaming_soft_keyboard\obj\Debug\gaming_soft_keyboard.keyform.resources
+C:\Users\alan\Documents\Visual Studio 2012\Projects\gaming_soft_keyboard\gaming_soft_keyboard\obj\Debug\gaming_soft_keyboard.Properties.Resources.resources
+C:\Users\alan\Documents\Visual Studio 2012\Projects\gaming_soft_keyboard\gaming_soft_keyboard\obj\Debug\gaming_soft_keyboard.csproj.GenerateResource.Cache
